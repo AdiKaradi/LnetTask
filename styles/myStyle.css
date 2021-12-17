@@ -1,0 +1,117 @@
+.container {
+    direction: rtl;
+    background-image: url('../images/blue-sky-clouds-watercolor-texture-background.jpg');
+}
+
+/*לוגו הגן*/
+#logo {
+    height: 100px;
+    width: 100px;
+    margin-right: 400px;
+    position: absolute;
+    float: right;
+    padding: 10px;
+}
+
+/*כותרת ראשית*/
+h1 {
+    font-family: 'Varela Round';
+    font-size: 36pt;
+    color: #FF9E01;
+    text-align: center;
+    padding-top: 10px;
+    text-shadow: 1px 1px #444;
+}
+
+/*סלוגן*/
+h2 {
+    font-family: 'Varela Round';
+    font-size: 16pt;
+    color: #FF9E01;
+    text-align: center;
+    text-shadow: 1px 1px #444;
+}
+
+/*פתיחה*/
+.card, .card b {
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    opacity: 70%;
+    padding-top: 10px;
+    font-family: Heebo;
+    font-size: 14pt;
+    text-align: center;
+    box-shadow: inset;
+    line-height: 1.2;
+}
+
+
+/*קרוסלת תמונות*/
+#demo{ 
+    margin-right:150px;
+}
+
+
+/*כותרת משנה*/
+h3 {
+    font-family: 'Varela Round';
+    font-size: 20pt;
+    color: #9CCF32;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    text-shadow: 1px 1px #444;
+}
+
+/*כותרת אני מאמין*/
+#card2 span {
+    color: #009ECE;
+    font-weight: bold;
+    text-shadow: 0.5px 0.5px #444;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-family: Heebo;
+    font-size: 16pt;
+    text-align: center;
+}
+
+/*אני מאמין*/
+#card2{
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    opacity: 60%;
+    padding-top: 10px;
+    font-family: Heebo;
+    font-size: 12pt;
+    text-align: center;
+    box-shadow: inset;
+    line-height: 1.2;
+    padding:10px;
+}
+
+/*פייסבוק*/
+#contctus1 {
+    margin-right: 480px;
+    width: 53px;
+    height: 53px;
+}
+
+/*מייל וטלפון*/
+.contctus {
+    width: 50px;
+    height: 50px;
+    margin: 8px;
+}
+
+
+.contctus:hover {
+        width: 65px;
+        height: 65px;
+}
+
+#contctus1:hover {
+    width: 68px;
+    height: 68px
+}
+
+
